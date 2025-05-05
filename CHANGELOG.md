@@ -2,6 +2,14 @@
 
 Todas as mudanças notáveis do projeto serão documentadas neste arquivo.
 
+## [1.1.0] - 2025-05-04
+### Notas
+- Conexão com DB estabelecida
+- Correção do botão home, não referencia "index", mas "/"
+- Formulário de cadastro funcionando (controller, model), DB integrado, imgs indo para writable/uploads
+- entrar.php pendente em tudo
+
+
 ## [1.0.0] - 2025-05-03
 ### Adicionado
 - Estrutura inicial do projeto.
